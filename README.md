@@ -8,9 +8,7 @@
 - 👀 I’m interested in JavaScript
 - 📫 How to reach me: [juejin](https://juejin.cn/user/3350967174838701)
 
-主页访问量<br>
 
-![](https://profile-counter.glitch.me/ywanzhou/count.svg)
-
-<img  src="https://profile-counter.glitch.me/ywanzhou/count.svg" />
+<p>主页访问量</p>
+<img hidden src="https://profile-counter.glitch.me/ywanzhou/count.svg" />
 
