@@ -9,6 +9,3 @@
 - 📫 How to reach me: [juejin](https://juejin.cn/user/3350967174838701)
 
 
-<p>主页访问量</p>
-<img style="display:none" src="https://profile-counter.glitch.me/ywanzhou/count.svg" />
-
