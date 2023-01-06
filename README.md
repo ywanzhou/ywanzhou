@@ -10,5 +10,5 @@
 
 
 <p>主页访问量</p>
-<img hidden src="https://profile-counter.glitch.me/ywanzhou/count.svg" />
+<img style="display:none" src="https://profile-counter.glitch.me/ywanzhou/count.svg" />
 
