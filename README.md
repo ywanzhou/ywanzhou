@@ -11,3 +11,6 @@
 主页访问量<br>
 
 ![](https://profile-counter.glitch.me/ywanzhou/count.svg)
+
+<img  src="https://profile-counter.glitch.me/ywanzhou/count.svg" />
+
