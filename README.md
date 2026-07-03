@@ -16,10 +16,10 @@ Front-end engineer wandering into AI full-stack. Writes on [掘金](https://juej
 
 ### 🍒 现在在做什么
 
-- 🔭 正在把 4 年前端经验往 **AI 全栈** 方向迁移，重点补 LLM 应用、Agent 编排和后端工程
-- 🌱 长期沉淀个人知识库 `zzh`：Obsidian + Claude Code 驱动的成长与 AI 资产仓库
-- ✍️ 在 [掘金](https://juejin.cn/user/3350967174838701) 持续写前端与 AI 工程实践
-- 🎯 2026 年主线：AI Agent、Skill 与 Workflow 沉淀，跑通「学习 → 输出 → 复用」闭环
+- 🔨 Building — LLM agents & side experiments
+- 📖 Reading — Anthropic docs, Claude Code source, agent papers
+- ✍️ Writing — front-end & AI notes on [掘金](https://juejin.cn/user/3350967174838701)
+- 🌱 Growing — my second brain in Obsidian
 
 ### 🍑 技术栈
 
