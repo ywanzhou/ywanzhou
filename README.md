@@ -8,20 +8,20 @@
   <img src="https://img.shields.io/github/followers/ywanzhou?label=Followers&style=flat-square&color=CE1D2D" />
 </p>
 
-### 🍉 关于我
+### 🍉 About Me
 
 > **A bowl of code, a spoon of AI.** — 一碗周
 
 Front-end engineer wandering into AI full-stack. Writes on [掘金](https://juejin.cn/user/3350967174838701), thinks in Vue, dreams in TypeScript.
 
-### 🍒 现在在做什么
+### 🍒 Now
 
 - 🔨 Building — LLM agents & side experiments
 - 📖 Reading — Anthropic docs, Claude Code source, agent papers
 - ✍️ Writing — front-end & AI notes on [掘金](https://juejin.cn/user/3350967174838701)
 - 🌱 Growing — my second brain in Obsidian
 
-### 🍑 技术栈
+### 🍑 Stack
 
 <p>
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
@@ -40,24 +40,10 @@ Front-end engineer wandering into AI full-stack. Writes on [掘金](https://juej
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-### 🍓 GitHub Stats
+### 🍎 Contact
 
-<p align="center">
-  <img src="./profile-summary-card-output/default/0-profile-details.svg" />
-</p>
-<p align="center">
-  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" />
-  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" />
-</p>
-<p align="center">
-  <img src="./profile-summary-card-output/default/3-stats.svg" />
-  <img src="./profile-summary-card-output/default/4-productive-time.svg" />
-</p>
-
-### 🍎 联系我
-
-- 🌐 掘金：[一碗周](https://juejin.cn/user/3350967174838701)
-- 📮 有事直接开 issue，或者掘金私信
+- 🌐 Juejin — [一碗周](https://juejin.cn/user/3350967174838701)
+- 📮 Open an issue, or DM me on Juejin
 
 ---
 
