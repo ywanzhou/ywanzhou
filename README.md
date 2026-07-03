@@ -57,9 +57,16 @@ const me = new Ywanzhou()
 
 ### 🍓 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ywanzhou&show_icons=true&icon_color=CE1D2D&title_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ywanzhou&layout=compact&title_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_border=true" height="165" />
+<p align="center">
+  <img src="./profile-summary-card-output/default/0-profile-details.svg" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" />
+  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/default/3-stats.svg" />
+  <img src="./profile-summary-card-output/default/4-productive-time.svg" />
 </p>
 
 ### 🍎 联系我
