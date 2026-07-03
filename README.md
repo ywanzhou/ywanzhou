@@ -10,24 +10,9 @@
 
 ### 🍉 关于我
 
-```typescript
-class Ywanzhou {
-  name = '周忠华'
-  alias = ['一碗周', '一碗粥', '一碗甜']
-  role = 'Front-end Engineer → AI Full-stack'
-  years = 4
-  domain = ['B 端 GIS 可视化', '前端工程化']
-  stack = ['Vue', 'TypeScript', 'OpenLayers', 'Node']
-  learning = ['LLM 应用', 'Agent', 'RAG', '后端']
-  motto = '少开新坑，先把眼前这一件事做完'
+> **A bowl of code, a spoon of AI.** — 一碗周
 
-  say() {
-    return '写在前面：写代码这事，说人话最重要。'
-  }
-}
-
-const me = new Ywanzhou()
-```
+Front-end engineer wandering into AI full-stack. Writes on [掘金](https://juejin.cn/user/3350967174838701), thinks in Vue, dreams in TypeScript.
 
 ### 🍒 现在在做什么
 
