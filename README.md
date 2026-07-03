@@ -42,5 +42,5 @@ Front-end engineer wandering into AI full-stack. Writes on [掘金](https://juej
 
 ### 🍎 Contact
 
-- 🌐 Juejin — [一碗周](https://juejin.cn/user/3350967174838701)
+- 📧 Email — [ywanzhou805@gmail.com](mailto:ywanzhou805@gmail.com)
 - 📮 Open an issue, or DM me on Juejin
