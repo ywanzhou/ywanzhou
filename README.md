@@ -44,7 +44,3 @@ Front-end engineer wandering into AI full-stack. Writes on [掘金](https://juej
 
 - 🌐 Juejin — [一碗周](https://juejin.cn/user/3350967174838701)
 - 📮 Open an issue, or DM me on Juejin
-
----
-
-<p align="center"><i>写完这段，去做眼前那一件真正的下一步动作。</i></p>
